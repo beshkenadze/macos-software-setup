@@ -1,2 +1,2 @@
 #!/bin/env sh
-brew install --cask 1password spotify istat-menus bartender beardedspice telegram-desktop authy tweetbot viscosity app-cleaner
+brew install --cask 1password spotify istat-menus bartender beardedspice telegram-desktop authy tweetbot viscosity appcleaner
