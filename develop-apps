@@ -1,0 +1,2 @@
+#!/bin/env sh
+brew install --cask visual-studio-code webstorm docker docker-compose iterm2
