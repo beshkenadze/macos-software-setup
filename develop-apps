@@ -1,5 +1,5 @@
 #!/bin/env sh
-brew install --cask visual-studio-code webstorm docker iterm2
+brew install --cask visual-studio-code webstorm docker iterm2 github
 brew install git docker-compose node
 brew tap homebrew/cask-fonts
 brew install --cask font-fira-code
