@@ -1,4 +1,5 @@
 #!/bin/env sh
-brew tap homebrew/cask-fonts
 brew install --cask visual-studio-code webstorm docker warp github lens font-fira-code
+mas install 497799835 	# Xcode
+xcode-select --install
 brew install git docker-compose node
